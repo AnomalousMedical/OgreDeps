@@ -1,7 +1,7 @@
 #ifndef OIS_iPhoneAccelerometer_H
 #define OIS_iPhoneAccelerometer_H
 
-#include "OISJoystick.h"
+#include "OISJoyStick.h"
 #include "iphone/iPhonePrereqs.h"
 
 #import <UIKit/UIKit.h>
